@@ -17,6 +17,10 @@ The Marvel website is built using the following technologies:
 - React
 - React Hooks
 - React Router v6+
+- React Transition Group
+- Yup
+- Formik
+- React Helmet
 
 ## Available Scripts
 
